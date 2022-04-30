@@ -1,2 +1,0 @@
-# PINOCCHIO
-Pinocchio Plot Twist
